@@ -25,5 +25,5 @@ The UI features a tomato image as a visual timer, start and reset buttons, and a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-tkinter.git
+   git clone https://github.com/yonas751/Pomodoro.git
    cd pomodoro-tkinter
